@@ -1,0 +1,3 @@
+test new command
+
+add new text
